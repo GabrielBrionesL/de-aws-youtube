@@ -1,15 +1,15 @@
 # Data Engineering - YouTube
-This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
+The objective of this project is to securely manage, streamline, and analyze structured and semi-structured data from YouTube videos. The analysis will focus on video categories and trending metrics.
 
 ## Architecture
 ![Source: Darshil Pamar](https://github.com/GabrielBrionesL/de-aws-youtube/blob/main/architecture%20diagram.png)
 
 ## Project Goals
-1. Data Ingestion — Build a mechanism to ingest data from different sources
-2. ETL System — We are getting data in raw format, transforming this data into the proper format
-3. Data lake — We will be getting data from multiple sources so we need centralized repo to store them
-4. Scalability — As the size of our data increases, we need to make sure our system scales with it
-5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
+1. Data Ingestion — Develop a machanism for gathering data from diverse sources
+2. ETL System — Transform raw data into the appropriate format for analysis
+3. Data Lake — Establish a centralized repository to store data obtained from various sources
+4. Scalability — Ensure that our system can expand seamlessly as our data volume grows
+5. Cloud — Utilize cloud infrastructure, specifically AWS, for processing large datasets beyond the capacity of local machines.
 
 ## AWS Services:
 1. Amazon S3: An object storage service by Amazon offering manufacturing scalability, data availability, security, and performance.
