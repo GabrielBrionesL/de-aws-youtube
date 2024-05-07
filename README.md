@@ -11,7 +11,7 @@ This project aims to securely manage, streamline, and perform analysis on the st
 4. Scalability — As the size of our data increases, we need to make sure our system scales with it
 5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
 
-## AWS Servcies:
+## AWS Services:
 1. Amazon S3: An object storage service by Amazon offering manufacturing scalability, data availability, security, and performance.
 2. AWS IAM: Identity and Access Management (IAM) by AWS facilitates secure management of access to AWS services and resources.
 3. AWS Glue: A serverless data integration service simplifying the discovery, preparation, and combination of data for analytics, machine learning, and application development
