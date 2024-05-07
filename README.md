@@ -1,6 +1,9 @@
 # Data Engineering - YouTube
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
 
+## Architecture
+![Source: Darshil Pamar](https://github.com/GabrielBrionesL/de-aws-youtube/blob/main/architecture%20diagram.png)
+
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from different sources
 2. ETL System — We are getting data in raw format, transforming this data into the proper format
