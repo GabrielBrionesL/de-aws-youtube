@@ -3,7 +3,6 @@ The objective of this project is to securely manage, streamline, and analyze str
 
 ## Architecture
 ![Source: Darshil Parmar](https://github.com/GabrielBrionesL/de-aws-youtube/blob/main/architecture%20diagram.png)
-Design by Darshil Parmar
 
 ## Project Goals
 1. Data Ingestion — Develop a machanism for gathering data from diverse sources
