@@ -1,5 +1,5 @@
 # Data Engineering - YouTube
-The objective of this project is to securely manage, streamline, and analyze structured and semi-structured data from YouTube videos. The analysis will focus on video categories and trending metrics.
+The objective of this project is to securely manage and streamline structured and semi-structured data from YouTube videos. The analysis will focus on video categories and trending metrics.
 
 ## Architecture
 ![Source: Darshil Parmar](https://github.com/GabrielBrionesL/de-aws-youtube/blob/main/architecture%20diagram.png)
