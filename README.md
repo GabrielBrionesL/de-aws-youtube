@@ -27,5 +27,4 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Blog
 You can read more about this project [here](https://medium.com/@gabrielbrionesloria/building-a-scalable-data-engineering-pipeline-for-youtube-data-analysis-b2fd8adea318)
 
-## Credit
 Thank you to [Darshil Parmar for the guidance](https://www.youtube.com/watch?v=yZKJFKu49Dk&list=PLBJe2dFI4sguF2nU6Z3Od7BX8eALZN3mU) 
